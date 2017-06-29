@@ -1,0 +1,19 @@
+{
+  "name": "bttrxr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cli-table2": "^0.2.0",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "node.bittrex.api": "^0.3.2",
+    "yargs": "^8.0.2"
+  }
+}
