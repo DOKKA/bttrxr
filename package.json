@@ -1,6 +1,6 @@
 {
   "name": "bttrxr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a command line app for buying and selling coins on bittrex",
   "main": "./lib/index.js",
   "bin": {
