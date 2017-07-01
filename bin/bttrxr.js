@@ -129,7 +129,7 @@ var argv=yargs.usage('$0 <cmd> [args]')
     handler: commands.ordersCommand
 })
 .command({
-    command: 'cancel <orderNumber>',
+    command: 'cancel <uuid>',
     aliases: ['rm'],
     desc: 'cancel open orders',
     builder: (yargs) => yargs,
