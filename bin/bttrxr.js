@@ -36,6 +36,11 @@ var argv=yargs.usage('$0 <cmd> [args]')
             demandOption: false,
             describe: 'order by percent change',
             type: 'boolean'
+        }).option('lines',{
+            alias: 'n',
+            demandOption: false,
+            describe: 'number of lines',
+            type: 'number'
         }),
     handler: commands.listCommand
 })
