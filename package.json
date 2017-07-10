@@ -1,6 +1,6 @@
 {
   "name": "bttrxr",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "a command line app for buying and selling coins on bittrex",
   "main": "./lib/index.js",
   "bin": {
@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/DOKKA/bttrxr",
-    "keywords": [
+  "keywords": [
     "bitcoin",
     "bittrex",
     "trading"
