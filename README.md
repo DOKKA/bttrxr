@@ -39,7 +39,7 @@ example: ```bttrxr bal```
 lists all markets for a currency  
 alias: ls  
 example: ```bttrxr ls``` (defaults to BTC)  
-list eth markets: ```bttrxr ls eth```
+list eth markets: ```bttrxr ls eth```  
 list top 10 highest % change bitcoin markets:  ```bttrxr ls -p -n 10```
 
 #### bttrxr buy <currencyPair> [args]
